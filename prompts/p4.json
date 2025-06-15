@@ -1,0 +1,17 @@
+[
+  {
+    "prompt": "How can ERP systems help optimize supply chain for steel distributors?",
+    "category": "Supply Chain",
+    "persona": "Supply Chain Manager"
+  },
+  {
+    "prompt": "What are the latest trends in ERP for metal distribution?",
+    "category": "Trends",
+    "persona": "Industry Analyst"
+  },
+  {
+    "prompt": "How does digital transformation impact steel distribution companies?",
+    "category": "Digital Transformation",
+    "persona": "Digital Lead"
+  }
+] 

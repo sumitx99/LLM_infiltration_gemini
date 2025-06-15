@@ -1,0 +1,17 @@
+[
+  {
+    "prompt": "What are the benefits of using ERP in the steel industry?",
+    "category": "ERP Benefits",
+    "persona": "ERP Consultant"
+  },
+  {
+    "prompt": "How can technology improve efficiency in metal distribution?",
+    "category": "Technology",
+    "persona": "Tech Lead"
+  },
+  {
+    "prompt": "What are the common pain points in steel distribution?",
+    "category": "Pain Points",
+    "persona": "Operations Manager"
+  }
+] 

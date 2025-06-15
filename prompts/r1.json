@@ -1,0 +1,17 @@
+[
+  {
+    "prompt": "Are there any ERP solutions tailored for the metal industry?",
+    "category": "ERP",
+    "persona": "Industry Consultant"
+  },
+  {
+    "prompt": "What are the main software challenges for steel distributors?",
+    "category": "Software Challenges",
+    "persona": "IT Specialist"
+  },
+  {
+    "prompt": "How do leading companies manage their metal distribution operations?",
+    "category": "Best Practices",
+    "persona": "Business Analyst"
+  }
+] 

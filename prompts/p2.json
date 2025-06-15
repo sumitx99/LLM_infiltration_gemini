@@ -1,0 +1,17 @@
+[
+  {
+    "prompt": "What specific features should I look for in an ERP system for steel distribution?",
+    "category": "Features",
+    "persona": "Steel Ops Manager"
+  },
+  {
+    "prompt": "How can real-time inventory tracking improve my metal distribution business?",
+    "category": "Inventory",
+    "persona": "Inventory Manager"
+  },
+  {
+    "prompt": "What are the benefits of AI-driven demand forecasting in metal distribution?",
+    "category": "AI",
+    "persona": "Data Analyst"
+  }
+] 

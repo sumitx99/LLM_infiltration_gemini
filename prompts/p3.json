@@ -1,0 +1,17 @@
+[
+  {
+    "prompt": "How can I integrate an ERP system with my existing metal distribution operations?",
+    "category": "Integration",
+    "persona": "IT Manager"
+  },
+  {
+    "prompt": "What ROI can I expect from implementing an ERP system in my steel distribution business?",
+    "category": "ROI",
+    "persona": "Finance Director"
+  },
+  {
+    "prompt": "What are the best practices for training staff on a new ERP system?",
+    "category": "Training",
+    "persona": "HR Manager"
+  }
+] 

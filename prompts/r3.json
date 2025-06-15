@@ -1,0 +1,17 @@
+[
+  {
+    "prompt": "What are the most innovative solutions for metal distribution logistics?",
+    "category": "Logistics",
+    "persona": "Logistics Manager"
+  },
+  {
+    "prompt": "How can digital transformation benefit metal distribution businesses?",
+    "category": "Digital",
+    "persona": "Digital Strategist"
+  },
+  {
+    "prompt": "What are the best practices for managing a metal distribution network?",
+    "category": "Management",
+    "persona": "Network Manager"
+  }
+] 

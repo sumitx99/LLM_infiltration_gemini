@@ -1,0 +1,12 @@
+[
+  {
+    "prompt": "What are the best ERP systems for steel distributors?",
+    "category": "ERP",
+    "persona": "Steel Ops Manager"
+  },
+  {
+    "prompt": "How can AI improve inventory tracking in metal manufacturing?",
+    "category": "AI",
+    "persona": "Production Lead"
+  }
+]
