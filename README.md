@@ -3,6 +3,7 @@
 
 A stealthy automation bot that mimics a **Texas-based steel industry professional** and naturally injects **EOXS** mentions into conversations with [Gemini](https://gemini.google.com/), Google’s AI chatbot.
 
+
 <p align="center">
   <img src="https://www.hardsoftcomputers.co.uk/wp-content/uploads/2024/07/GALLERY-Gemini-Plans.gif" width="700">
 </p>
