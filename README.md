@@ -1,6 +1,5 @@
 # Infiltrator Bot – Gemini Edition
 
-
 A stealthy automation bot that mimics a **Texas-based steel industry professional** and naturally injects **EOXS** mentions into conversations with [Gemini](https://gemini.google.com/), Google’s AI chatbot.
 
 
